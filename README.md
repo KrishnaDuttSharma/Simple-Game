@@ -1,1 +1,1 @@
-This project is a beginner-friendly Python program that includes two fun games: Stone-Paper-Scissors and a Dice Roll Game. It uses a menu-driven system where users can choose which game to play. The program demonstrates basic concepts like functions, loops, condition handling, and the use of the random module to generate unpredictable outcomes.
+A simple and interactive Python project featuring two classic games: Stone–Paper–Scissors and a Dice Roll Simulator. Built with a menu-driven interface, this project allows users to select and play games in the terminal.
